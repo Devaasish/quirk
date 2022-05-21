@@ -43,7 +43,6 @@ const App = createBottomTabNavigator(
     [PAYMENT_SCREEN]: PaymentScreen,
     [LOCK_SCREEN]: LockScreen,
     [CBT_ON_BOARDING_SCREEN]: OnboardingScreen,
-    [CHECKUP_SCREEN]: CheckupScreen,
     [SUPPORT_SCREEN]: SupportScreen,
     [MARKDOWN_ARTICLE_SCREEN]: MarkdownArticleScreen,
   },
